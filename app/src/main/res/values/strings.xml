@@ -13,6 +13,10 @@
     <string name="password_hint">Password</string>
     <string name="email_hint">Email Address</string>
     <string name="login">Login</string>
+    <string name="logout">Logout</string>
     <string name="sign_up">Sign Up!</string>
-    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="sign_up_error_message">It looks like you missed either the username, password, or email field.</string>
+    <string name="login_error_message">It looks like you missed either the username or password field.</string>
+    <string name="oh_no_error_title">Oh no!</string>
 </resources>
